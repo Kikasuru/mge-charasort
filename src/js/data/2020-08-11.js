@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
         opts:{type:["semiliquid"],year:["2008"]}
     },
     {
-        name:"Centuar",
+        name:"Centaur",
         img:"https://i.imgur.com/OpCqF7f.png",
         opts:{type:["beastman"],year:["2008"]}
     },
