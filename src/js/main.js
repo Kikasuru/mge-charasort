@@ -284,7 +284,8 @@ function display() {
   const charNameDisp = name => {
     const charName = reduceTextWidth(name, 'Arial 12.8px', 220);
     const charTooltip = name !== charName ? name : '';
-    return `<p title="${charTooltip}">${charName}</p>`;
+    const charUrl = "https://monstergirlencyclopedia.fandom.com/wiki/"+name.replace(" ","_")
+    return `<p title="${charTooltip}"><a href = ${charUrl} target="_blank">${charName}</a></p>`;
   };
 
   progressBar(`Battle No. ${battleNo}`, percent);
