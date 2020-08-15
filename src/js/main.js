@@ -284,7 +284,8 @@ function display() {
   const charNameDisp = name => {
     const charName = reduceTextWidth(name, 'Arial 12.8px', 220);
     const charTooltip = name !== charName ? name : '';
-    const charUrl = "https://monstergirlencyclopedia.fandom.com/wiki/"+name.replace(" ","_")
+    //Since Kamaitachi is split into 3 entries in data, we're going to need to redirect all of them to one.
+    const charUrl = "https://monstergirlencyclopedia.fandom.com/wiki/"+(name.startsWith("Kamaitachi")?"Kamaitachi":name.replace(" ","_"));
     return `<p title="${charTooltip}"><a href = ${charUrl} target="_blank">${charName}</a></p>`;
   };
 
