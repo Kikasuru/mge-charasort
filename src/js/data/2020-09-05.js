@@ -663,14 +663,14 @@ dataSet[dataSetVersion].characterData = [
         name:"Glacies",
         img:"https://i.imgur.com/g411JIF.png",
         opts:{type:["elemental"],year:["2012"]}
-    },
+    }, //haha funny hell number
 
     //2013 - AKA The Good Year
     {
         name:"Selkie",
         img:"https://i.imgur.com/oIQOuSg.png",
         opts:{type:["beastman"],year:["2013"]}
-    }, //haha funny hell number
+    },
     {
         name:"Pharaoh",
         img:"https://i.imgur.com/gdwvlOi.png",
