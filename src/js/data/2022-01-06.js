@@ -57,7 +57,7 @@ dataSet[dataSetVersion].options = [
             {name:"2019",key:"2019"},
             {name:"2020",key:"2020"},
             {name:"2021",key:"2021"},
-			{name:"2022",key:"2022"}
+	    {name:"2022",key:"2022"}
         ]
     }/*,
     {
@@ -1251,6 +1251,11 @@ dataSet[dataSetVersion].characterData = [
 	{
 		name:"Krampus",
 		img:"https://raw.githubusercontent.com/Kikasuru/mge-slotmachine/main/public/assets/images/Krampus.png",
-		opts:{type:["demonbeast"],year:["2021"]}
+		opts:{type:["demonbeast"],year:["2022"]}
+	},
+	{
+		name:"Phoenix",
+		img:"https://raw.githubusercontent.com/Kikasuru/mge-slotmachine/main/public/assets/images/Phoenix.png",
+		opts:{type:["birdman"],year:["2022"]}
 	}
 ];
