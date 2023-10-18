@@ -57,7 +57,8 @@ dataSet[dataSetVersion].options = [
             {name:"2019",key:"2019"},
             {name:"2020",key:"2020"},
             {name:"2021",key:"2021"},
-	    {name:"2022",key:"2022"}
+	    {name:"2022",key:"2022"},
+	    {name:"2023",key:"2023"}
         ]
     }/*,
     {
@@ -1257,5 +1258,12 @@ dataSet[dataSetVersion].characterData = [
 		name:"Phoenix",
 		img:"https://raw.githubusercontent.com/Kikasuru/mge-slotmachine/main/public/assets/images/Phoenix.png",
 		opts:{type:["birdman"],year:["2022"]}
+	},
+
+	// 2023
+	{
+		name:"Malef Dragon",
+		img:"https://raw.githubusercontent.com/Kikasuru/mge-slotmachine/main/public/assets/images/Malef_Dragon.png",
+		opts:{type:["reptile"],year:["2023"]}
 	}
 ];
