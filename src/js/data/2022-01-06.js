@@ -58,7 +58,8 @@ dataSet[dataSetVersion].options = [
             {name:"2020",key:"2020"},
             {name:"2021",key:"2021"},
 	    {name:"2022",key:"2022"},
-	    {name:"2023",key:"2023"}
+	    {name:"2023",key:"2023"},
+	    {name:"2024",key:"2024"}
         ]
     }/*,
     {
@@ -1265,5 +1266,47 @@ dataSet[dataSetVersion].characterData = [
 		name:"Malef Dragon",
 		img:"https://raw.githubusercontent.com/Kikasuru/mge-slotmachine/main/public/assets/images/Malef_Dragon.png",
 		opts:{type:["reptile"],year:["2023"]}
+	},
+	{
+		name:"Dragonewt",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/a/ab/Dragonewt_0.jpg",
+		opts:{type:["reptile"],year:["2023"]}
+	},
+	{
+		name:"Taisui",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/a/a9/Taisui_0.jpg",
+		opts:{type:["semiliquid"],year:["2023"]}
+	},
+	{
+		name:"Man-eater (Claustrophyte)",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/f/f1/Maneater_Claustrophyte_0.jpg",
+		opts:{type:["plant"],year:["2023"]}
+	},
+	{
+		name:"Man-eater (Saccophyte)",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/0/0d/Maneater_Saccophyte_0.jpg",
+		opts:{type:["plant"],year:["2023"]}
+	},
+
+	// 2024
+	{
+		name:"Kelpie",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/4/45/Kelpie_0.jpg",
+		opts:{type:["beastman"],year:["2024"]}
+	},
+	{
+		name:"Candlegeist",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/7/7c/Candlegeist_0.jpg",
+		opts:{type:["magicmaterial"],year:["2024"]}
+	},
+	{
+		name:"Balrog",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/b/b9/Balrog_0.jpg",
+		opts:{type:["fiend"],year:["2024"]}
+	},
+	{
+		name:"Boggleboe",
+		img:"https://static.miraheze.org/monstergirlencyclopediawiki/7/7f/Boggleboe_0.jpg",
+		opts:{type:["undead"],year:["2024"]}
 	}
 ];
