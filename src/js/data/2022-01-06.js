@@ -58,7 +58,8 @@ dataSet[dataSetVersion].options = [
             {name:"2020",key:"2020"},
             {name:"2021",key:"2021"},
 	    {name:"2022",key:"2022"},
-	    {name:"2023",key:"2023"}
+	    {name:"2023",key:"2023"},
+	    {name:"2024",key:"2024"}
         ]
     }/*,
     {
@@ -1265,5 +1266,47 @@ dataSet[dataSetVersion].characterData = [
 		name:"Malef Dragon",
 		img:"https://raw.githubusercontent.com/Kikasuru/mge-slotmachine/main/public/assets/images/Malef_Dragon.png",
 		opts:{type:["reptile"],year:["2023"]}
+	},
+	{
+		name:"Dragonewt",
+		img:"https://i.imgur.com/elSOUE0.png",
+		opts:{type:["reptile"],year:["2023"]}
+	},
+	{
+		name:"Taisui",
+		img:"https://i.imgur.com/81XCblS.png",
+		opts:{type:["semiliquid"],year:["2023"]}
+	},
+	{
+		name:"Man-eater (Claustrophyte)",
+		img:"https://i.imgur.com/vli7mgG.png",
+		opts:{type:["plant"],year:["2023"]}
+	},
+	{
+		name:"Man-eater (Saccophyte)",
+		img:"https://i.imgur.com/APPStr8.png",
+		opts:{type:["plant"],year:["2023"]}
+	},
+
+	// 2024
+	{
+		name:"Kelpie",
+		img:"https://i.imgur.com/OwGLWaM.png",
+		opts:{type:["beastman"],year:["2024"]}
+	},
+	{
+		name:"Candlegeist",
+		img:"https://i.imgur.com/oghcOjo.png",
+		opts:{type:["magicmaterial"],year:["2024"]}
+	},
+	{
+		name:"Balrog",
+		img:"https://i.imgur.com/eDLrYko.png",
+		opts:{type:["demon"],year:["2024"]}
+	},
+	{
+		name:"Boggleboe",
+		img:"https://i.imgur.com/Yoo0EU9.png",
+		opts:{type:["undead"],year:["2024"]}
 	}
 ];
