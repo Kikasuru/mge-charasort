@@ -1309,4 +1309,9 @@ dataSet[dataSetVersion].characterData = [
 		img:"https://i.imgur.com/Yoo0EU9.png",
 		opts:{type:["undead"],year:["2024"]}
 	}
-];
+	{,
+	    name:"Salpinx",
+	    img:"https://mgewiki.moe/images/0/02/Salpinx_0.jpg",
+		opts:{type:["angel"],year:["2024"]}
+}
+{
